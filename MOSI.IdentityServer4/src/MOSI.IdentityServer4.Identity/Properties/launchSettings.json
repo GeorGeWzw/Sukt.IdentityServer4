@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "MOSI.IdentityServer4.Identity": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5009"
+    }
+    
+  }
+}
